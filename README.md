@@ -1,3 +1,13 @@
+
+
+The primary script held in this directory is "VaporPlumeExpansion.ipynb"
+
+This script is a jupyter notebook that performs the calculations seen in the manuscript 
+"Impact Ejecta Plumes in a Vacuum" Davies et al. 2020.
+
+The script runs on order minutes and produces most of the plots in the directory. Other plots
+and scripts are supporting
+
 # aneos-forsterite-2019
 
 DOCUMENTATION FOR ANEOS MODEL FOR FORSTERITE
